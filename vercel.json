@@ -1,9 +1,0 @@
-{
-    "redirects": [
-        {
-            "source": "/(.*)",
-            "destination": "https://f3zaq54juojtce8shrjwk2.streamlit.app/$1",
-            "permanent": true
-        }
-    ]
-}
